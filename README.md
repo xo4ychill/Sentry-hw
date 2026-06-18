@@ -2,7 +2,7 @@
 
 ---
 ## Задание 1. Меню Projects
-Из за отсутсвия доступа к [https://sentry.io](https://sentry.io) нет возможности создать ```Free Сloud account```
+Из-за отсутсвия доступа к [https://sentry.io](https://sentry.io) нет возможности создать ```Free Сloud account```
 
 Развернут Self-Hosted Sentry по инструкции из официального репозитория [`getsentry/self-hosted`](https://github.com/getsentry/self-hosted):
 
